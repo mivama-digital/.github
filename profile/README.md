@@ -1,8 +1,8 @@
 <div align="center">
 
-Mivama Digital UG
+# Mivama Digital UG
 
-Small IT company from Germany.
+Small IT company from Germany.  
 Focused on web development, online shops, plugins, and automation.
 
 <p>
@@ -11,53 +11,39 @@ Focused on web development, online shops, plugins, and automation.
   <img src="https://img.shields.io/badge/Plugins-222222?style=flat-square" />
   <img src="https://img.shields.io/badge/Automation-222222?style=flat-square" />
 </p>
+
 </div>
 
-⸻
+---
 
-About us
+## About us
 
-Mivama Digital UG is a small development team.
+Mivama Digital UG is a small development team from Germany.
 
-We build practical software solutions for websites, shops, and internal workflows.
+We build practical software solutions for websites, online shops, plugins, and internal workflows.  
 Our focus is clear structure, maintainable code, and useful results.
 
-⸻
+---
 
-Focus
+## Focus
 
-<table>
-  <tr>
-    <td><strong>Web development</strong></td>
-    <td>Company websites, landing pages, frontend, and backend work.</td>
-  </tr>
-  <tr>
-    <td><strong>Online shops</strong></td>
-    <td>Shopware, WooCommerce, product pages, and shop improvements.</td>
-  </tr>
-  <tr>
-    <td><strong>Plugins</strong></td>
-    <td>Extensions, integrations, and custom features.</td>
-  </tr>
-  <tr>
-    <td><strong>Automation</strong></td>
-    <td>Tools and workflows that reduce manual work.</td>
-  </tr>
-  <tr>
-    <td><strong>Maintenance</strong></td>
-    <td>Bug fixes, updates, cleanup, and support.</td>
-  </tr>
-</table>
+| Area | Description |
+|---|---|
+| **Web development** | Company websites, landing pages, frontend, and backend development. |
+| **Online shops** | Shopware, WooCommerce, product pages, and shop improvements. |
+| **Plugins** | Extensions, integrations, and custom features. |
+| **Automation** | Tools and workflows that reduce manual work. |
+| **Maintenance** | Bug fixes, updates, cleanup, and support. |
 
-⸻
+---
 
-GitHub
+## GitHub
 
 This organization contains public projects, tools, tests, and documentation.
 
-⸻
+---
 
-Contact
+## Contact
 
-Website: coming soon
+Website: coming soon  
 Email: coming soon
