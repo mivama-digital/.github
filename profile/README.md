@@ -2,8 +2,7 @@
 
 # Mivama Digital UG
 
-Small IT company from Germany.  
-Focused on web development, online shops, plugins, and automation.
+Small IT company from Germany.
 
 <p>
   <img src="https://img.shields.io/badge/Web%20Development-222222?style=flat-square" />
